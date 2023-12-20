@@ -15,7 +15,7 @@ The size of the image before and after data embedding is almost the same. and th
 
 You can install the package by the pip command below
 
-pip install steganograph==0.0.10
+pip install steganograph==0.0.12
 
 # How to use the package
 
